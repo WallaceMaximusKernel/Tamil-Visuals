@@ -1,0 +1,51 @@
+
+{
+  "structure": {
+    "subject": "A Tamil woman wearing a traditional Kanchipuram silk saree",
+    "details": "Traditional jewellery, neatly braided hair decorated with jasmine flowers"
+  },
+  "composition": {
+    "camera": {
+      "shot": "Close-up",
+      "lens": "50mm",
+      "angle": "Eye-level"
+    },
+    "aspect_ratio": "16:9",
+    "framing": "Woman positioned in the foreground with the courtyard visible in the background"
+  },
+  "actions": {
+    "primary_action": "Drawing a traditional kolam using white rice flour",
+    "secondary_action": "Holding a small bowl of kolam powder"
+  },
+  "location": {
+    "place": "Chettinad, Tamil Nadu, India",
+    "era": "Early 20th century",
+    "time_of_day": "Golden hour",
+    "architecture": "Traditional Chettinad courtyard with Athangudi tiles"
+  },
+  "aesthetic": {
+    "lighting": "Soft natural early morning sunlight with foggy ambiance",
+    "palette": [
+      "Terracotta",
+      "Golden yellow",
+      "Earthy brown",
+      "Cream white"
+    ],
+    "style": "Photorealistic cinematic photography"
+  },
+  "motion": {
+    "subject_motion": "The woman gently moves her right hand while drawing the kolam with white rice flour. Her jasmine flowers sway slightly in the morning breeze.",
+    "camera_move": "Slow cinematic camera push-in towards the woman and the kolam.",
+    "duration_seconds": 5
+  },
+  "avoid": [
+    "Modern buildings",
+    "Western clothing",
+    "Incorrect traditional jewellery",
+    "Unrealistic facial features",
+    "Distorted hands and fingers",
+    "Cartoon or illustration style",
+    "Watermarks",
+    "Text and logos"
+  ]
+}
